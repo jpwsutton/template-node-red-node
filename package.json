@@ -1,0 +1,26 @@
+{
+    "name": "node-red-contrib-yournodehere",
+    "version": "0.0.3",
+    "description": "Node-RED nodes to do something cool!",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jpwsutton/node-red-contrib-yournodehere.git"
+    },
+    "keywords": [
+      "node-red",
+      "yournodehere"
+    ],
+    "author": "James Sutton",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/jpwsutton/node-red-contrib-yournodehere/issues"
+    },
+    "homepage": "https://github.com/jpwsutton/node-red-contrib-yournodehere#readme",
+    "node-red": {
+      "nodes": {
+        "yournodehere": "yournodehere.js"
+      }
+    },
+    "dependencies": {
+    }
+  }
